@@ -1,2 +1,3 @@
-# tti-membership-page
-TTI Membership Page
+# TTI Membership Page
+
+Static page for hosting a Stripe pricing table.
