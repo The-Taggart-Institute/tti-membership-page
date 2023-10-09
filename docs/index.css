@@ -19,6 +19,16 @@ h1,h2 {
   font-weight: 200;
 }
 
+header {
+
+  text-align: center;
+  & img {
+    border: 2px solid #ffe510;
+    max-height: 40vh;
+    margin: auto;
+  }
+}
+
 h1 {
   font-size: 4rem;
 }
@@ -32,8 +42,13 @@ footer {
 }
 
 .description {
+  text-align: left;
   margin: auto;
   max-width: 60vw;
+
+  & p b {
+    color: #BF0AF9;
+  }
 
   & p a {
     color: #BF0AF9;
