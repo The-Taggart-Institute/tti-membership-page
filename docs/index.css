@@ -70,5 +70,8 @@ hr {
   .description {
     max-width: 100vw;
   }
+  header img {
+    max-width: 100vw;
+  }
 }
 
