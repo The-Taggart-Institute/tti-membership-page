@@ -41,6 +41,11 @@ footer {
   text-align: center;
 }
 
+hr {
+  border: 2px solid #BF0AF9;
+
+}
+
 .description {
   text-align: left;
   margin: auto;
